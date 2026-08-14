@@ -1,0 +1,58 @@
+date,category,metric,value,unit,evidence_type,confidence,notes
+2021-10,herd,cows,27,head,reported,medium,Improved cows in early build phase
+2021-10,herd,buffaloes,12,head,reported,medium,Reported separately from cows
+2021-10,milk,cow_milk,425,L/day,reported,medium,Cow milk only
+2021-10,milk,buffalo_milk,100,L/day,reported,medium,Buffalo milk
+2021-10,price,direct_milk_price,75,NPR/L,reported,medium,Home-delivery price
+2022-01,herd,cows,50,head,reported,medium,Holstein/Jersey-type
+2022-01,milk,milk_production,600,L/day,reported,medium,Farm production reported
+2022-01,feed,contract_maize_area,50,bigha,reported,medium,Silage maize contracts
+2022-01,feed,whole_maize_price,3.5,NPR/kg,derived,medium,350 NPR/quintal converted to kg
+2022-04,herd,cows,112,head,reported,medium,Improved Holstein/Jersey cattle
+2022-04,milk,milk_sold,1000,L/day,reported,medium,Milk sold
+2022-04,milk,milk_to_curd_paneer,200,L/day,reported,medium,Milk-equivalent used in processing
+2022-04,milk,minimum_milk_handled,1200,L/day,derived,medium,1000 sold plus 200 processed
+2022-04,milk,milk_handled_per_reported_cow,10.71,L/head/day,derived,medium,Not lactating-cow yield
+2022-04,price,milk_price,70,NPR/L,reported,medium,Reported selling price
+2022-04,labour,direct_jobs,30,jobs,reported,medium,Enterprise workforce not dairy-only
+2022-04,capital,reported_investment,30,crore_NPR,reported,medium,More than 30 crore reported
+2022-04,capital,land_purchase,11,crore_NPR,reported,medium,Five bigha land
+2022-04,capital,grant_milking_parlour,1,crore_NPR,reported,medium,NLSIP/federal grant reported
+2022-04,capital,bank_borrowing,9,crore_NPR,reported,medium,Mega Bank borrowing reported
+2023-07,herd,mother_cows,145,head,reported,high,Kantipur report
+2023-07,milk,milk_sold,1100,L/day,reported,high,Kantipur report
+2023-07,milk,milk_sold_per_mother_cow,7.59,L/head/day,derived,high,Not lactating-cow yield
+2023-07,milk,individual_cow_yield_low,17,L/day,reported,medium,Range reported by management
+2023-07,milk,individual_cow_yield_high,33,L/day,reported,medium,Range reported by management
+2023-07,labour,total_jobs,42,jobs,reported,high,32 salaried plus 10 daily wage
+2023-07,labour,jobs_per_100_reported_mother_cows,28.97,jobs/100_head,derived,high,Includes integrated enterprise activities
+2023-07,capital,reported_investment,40,crore_NPR,reported,high,First phase investment reported
+2023-07,capital,cow_value_each,2.5,lakh_NPR,reported,high,Reported value per cow
+2023-07,capital,nominal_value_145_cows,3.625,crore_NPR,derived,high,145 times 2.5 lakh
+2023-07,capital,cow_value_share_of_project,9.06,percent,derived,high,Nominal cow value divided by 40 crore
+2023-07,capital,land_share_of_project,27.5,percent,derived,medium,Uses 2022 land figure against 2023 project capital
+2023-07,capital,residual_non_land_non_cow_capital,25.375,crore_NPR,derived,medium,Not audited equipment value
+2023-07,capital,total_project_capital_per_mother_cow,27.59,lakh_NPR/head,derived,high,40 crore divided by 145
+2023-07,capital,expansion_shed_for_88_cows,4,crore_NPR,reported,high,Planned shed expansion
+2023-07,capital,expansion_shed_capital_per_place,4.55,lakh_NPR/head,derived,high,4 crore divided by 88
+2023-07,feed,silage_inventory,800,tonnes,reported,high,Stocked until coming Baisakh
+2023-07,feed,silage_coverage_days,283,days,assumption,medium,5 Jul 2023 to approximately Baisakh 1 2081
+2023-07,feed,implied_silage_use,2826.86,kg/day,derived,medium,800000 divided by 283
+2023-07,feed,implied_silage_per_mother_cow,19.50,kg/head/day,derived,medium,Assumes 145 mother cows are feeding base
+2023-07,feed,annualized_silage_requirement,1031.80,tonnes/year,derived,medium,Annualized from implied use
+2023-07,feed,contract_maize_area,30,bigha,reported,high,20 farmers
+2023-07,feed,contract_maize_farmers,20,farmers,reported,high,Contract growers
+2023-07,feed,whole_maize_price,4,NPR/kg,reported,high,Whole maize plant field purchase price
+2023-07,feed,raw_maize_cost_per_day,11307.42,NPR/day,derived,medium,Implied silage use times 4 NPR/kg
+2023-07,feed,raw_maize_cost_per_litre_sold,10.28,NPR/L,derived,medium,Only raw maize crop component
+2023-07,revenue,reported_annual_milk_manure_sales,5,crore_NPR/year,reported,medium,Management-reported figure not audited
+2023-07,revenue,equivalent_sales_value_per_litre,124.53,NPR/L,derived,low,Not milk price; 5 crore divided by annualized milk sold
+2025-02,herd,total_cattle_including_calves,180,head,reported,high,Approximate
+2025-02,milk,milk_production,1300,L/day,reported,high,Production reported
+2025-02,milk,milk_per_total_head,7.22,L/head/day,derived,high,Not lactating-cow yield
+2025-02,milk,milk_to_curd_paneer,200,L/day,reported,medium,Interpretation of report may overlap total production
+2025-02,labour,direct_jobs,50,jobs,reported,medium,Article says more than 50
+2025-02,labour,jobs_per_100_total_cattle,27.78,jobs/100_head,derived,low,Uses minimum 50 jobs and total cattle including calves
+2025-02,capital,reported_investment,30,crore_NPR,reported,low,Conflicts with 2023 40 crore figure
+2025-02,infrastructure,milk_chiller_capacity,3000,L,reported,high,Grant-supported chiller reported
+2025-02,breeding,self_produced_cattle,1,boolean,reported,medium,Farm reports producing and selling cattle internally
