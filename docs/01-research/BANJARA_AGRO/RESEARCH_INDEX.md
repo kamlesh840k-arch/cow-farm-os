@@ -33,6 +33,8 @@ Important limitation: no public search method can guarantee discovery of literal
 - `SOURCE_INVENTORY.md` — public-source catalogue and search coverage
 - `FARM_TIMELINE.md` — herd, milk, investment and system development over time
 - `SYSTEM_ANALYSIS.md` — what Banjara actually appears to be doing and lessons for our farm
+- `HERD_ECONOMICS_RECONSTRUCTION.md` — reconstructed lactating-herd scenarios, silage requirement, labour intensity, capital intensity, revenue contradictions and cost-per-litre sensitivity
+- `/data/banjara_agro_economics.csv` — structured reported and derived Banjara metrics for future modelling
 
 ## Evidence labels
 
@@ -44,4 +46,8 @@ Important limitation: no public search method can guarantee discovery of literal
 
 ## Current status
 
-First comprehensive public-source sweep completed 2026-08-14. Major farm-development facts and contradictions are now captured. YouTube-specific discovery remains constrained by search indexing, so any newly found videos should be appended rather than assumed already covered.
+First comprehensive public-source sweep completed 2026-08-14. Major farm-development facts and contradictions are captured.
+
+A first herd-economics reconstruction was also completed on 2026-08-14. It derives feed/silage intensity, capital per animal, labour intensity, lactating-cow scenarios and cost-per-litre sensitivity from public numbers, while clearly labelling missing internal data. It is **not an audited financial statement**.
+
+YouTube-specific discovery remains constrained by search indexing, so any newly found videos should be appended rather than assumed already covered.
