@@ -2,9 +2,15 @@
 
 ## Purpose
 
-Study Banjara Agro as a benchmark for modern dairy farming in Nepal, while separating observed practices from assumptions and our own decisions.
+Study Banjara Agro as a benchmark for modern dairy farming in Nepal, while separating observed practices, reported claims, verified facts, assumptions, and our own decisions.
 
-## Research questions
+## Research standard
+
+This folder is being built from a broad public-source sweep across search-indexed YouTube references, Banjara Agro's own website, news reports, World Bank/NLSIP material, social/business pages, podcasts, and trade/import records.
+
+Important limitation: no public search method can guarantee discovery of literally every YouTube upload, especially private, deleted, unlisted, newly uploaded, poorly indexed, or Shorts-only content. The inventory therefore means **all sources discoverable in the sweep**, with new sources to be appended when found.
+
+## Core research questions
 
 1. What cattle breeds and bloodlines are actually used?
 2. What is the herd composition: calves, heifers, dry cows, lactating cows and bulls?
@@ -19,24 +25,23 @@ Study Banjara Agro as a benchmark for modern dairy farming in Nepal, while separ
 11. How are manure, slurry, compost and biogas handled?
 12. What labour structure is used?
 13. What is the reported investment and which parts are essential vs optional?
-14. How does Banjara Agro earn revenue beyond raw milk, if at all?
+14. How does Banjara Agro earn revenue beyond raw milk?
 15. Which systems are transferable to a capital-efficient Bardiya farm?
 
-## Source handling
+## Documents
 
-For every source capture:
+- `SOURCE_INVENTORY.md` — public-source catalogue and search coverage
+- `FARM_TIMELINE.md` — herd, milk, investment and system development over time
+- `SYSTEM_ANALYSIS.md` — what Banjara actually appears to be doing and lessons for our farm
 
-- Title
-- URL/source platform
-- Publisher/channel
-- Publication date if available
-- Date reviewed
-- Claims made
-- What is directly visible vs verbally claimed
-- Confidence level
-- Conflicts with other sources
-- Lesson for our farm
+## Evidence labels
+
+- **FACT / HIGH** — directly supported by a strong source or multiple independent sources
+- **REPORTED / MEDIUM** — attributed to Banjara management or a media report but not independently audited
+- **OBSERVED / MEDIUM** — visually apparent in a source/video but technical specification not independently verified
+- **CLAIM / LOW** — promotional or single-source claim requiring verification
+- **INFERENCE** — our interpretation from multiple facts; never treated as a fact
 
 ## Current status
 
-Research initiated. No Banjara-specific technical claim should be treated as a project decision until independently verified or explicitly accepted in a DEC file.
+First comprehensive public-source sweep completed 2026-08-14. Major farm-development facts and contradictions are now captured. YouTube-specific discovery remains constrained by search indexing, so any newly found videos should be appended rather than assumed already covered.
