@@ -1,41 +1,62 @@
 # COW Farm OS Roadmap
 
-## Phase 0 — Research & feasibility
-- Benchmark Banjara Agro and other high-performing dairy farms.
-- Study cattle breeds/genetics suitable for hot Terai conditions.
-- Establish realistic milk-yield, fertility, mortality and replacement assumptions.
-- Study Nepal milk market, pricing, dairy off-take and input availability.
-- Build initial CAPEX/OPEX and herd-growth models.
+**Blueprint status as of 2026-08-15:** all phases have complete planning/playbooks. Phases requiring physical construction, procurement or real operating data remain execution-pending by definition.
 
-## Phase 1 — Farm concept
-- Decide target starting herd and animal categories.
-- Choose genetics and breeding strategy.
-- Define fodder acreage, silage storage and feed system.
-- Draft master layout, shed design, calf/heifer areas and manure flow.
-- Select manual vs semi-mechanized equipment.
+## Phase 0 — Research & feasibility — ✅ PLANNING COMPLETE
+- Banjara Agro benchmark complete and maintained as a living source inventory.
+- Bardiya/Terai breed and heat-stress evidence reviewed.
+- Milk-price and government-service anchors reviewed.
+- Initial CAPEX/OPEX and herd-growth models built.
+- Conditional GO criteria documented.
 
-## Phase 2 — Investment case
-- Validate quotations and local costs.
-- Finalize phased CAPEX.
-- Model cash flow, break-even, debt service and downside scenarios.
-- Confirm milk buyer/off-take and veterinary/breeding support.
-- Make go/no-go decision.
+Primary file: `docs/01-research/PHASE_0_FEASIBILITY.md`
 
-## Phase 3 — Build & procurement
-- Site preparation and utilities.
-- Shed, drainage, water, feed and manure infrastructure.
-- Procurement of animals and essential equipment.
-- SOPs, staffing and pre-opening checks.
+## Phase 1 — Farm concept — ✅ COMPLETE
+- Starting herd: 30 breeding females.
+- Working genetics: adapted HF-cross + Jersey-cross comparison cohort.
+- Fodder target: 8–10 bigha for Phase 1.
+- Functional farm design for 30, expansion reserve for 50.
+- Semi-mechanized equipment strategy.
 
-## Phase 4 — Launch & stabilization
-- Animal intake and quarantine.
-- Feeding and milking routines.
-- Reproduction tracking.
-- Health, calf and milk-quality monitoring.
-- Compare actuals vs model monthly.
+Primary files: `docs/02-herd/`, `docs/03-feed/`, `docs/04-farm-design/`, `docs/09-phase-1/`.
 
-## Phase 5 — Scale
-- Retain best female replacements.
-- Increase herd only when feed, labour, housing and cash flow support it.
-- Add automation when it has measurable ROI.
-- Evaluate value-added dairy, breeding and manure/biogas opportunities.
+## Phase 2 — Investment case — 🟡 MODEL COMPLETE / COMMERCIAL INPUTS PENDING
+- Funding envelope and OPEX modeled.
+- Price/debt downside scenarios modeled.
+- Debt policy: prefer 30–40% maximum under current assumptions.
+- Subsidy excluded from base case.
+- GO/NO-GO gates defined.
+
+Pending: quotations, buyer agreement and bank offer.
+
+Primary files: `docs/06-finance/`.
+
+## Phase 3 — Build & procurement — 🟡 PLAYBOOK COMPLETE / EXECUTION PENDING
+- Site due diligence checklist.
+- Design/BOQ requirements.
+- Tender rules.
+- Build sequence.
+- Equipment/animal procurement gates.
+- Acceptance testing.
+
+Primary file: `docs/10-build/BUILD_PROCUREMENT_PLAN.md`.
+
+## Phase 4 — Launch & stabilization — 🟡 PLAYBOOK COMPLETE / EXECUTION PENDING
+- Intake/quarantine SOP.
+- First 30/90 days.
+- 6-month stabilization gate.
+- Monthly actual-vs-model process.
+
+Primary files: `docs/05-operations/`, `docs/11-launch/`, `docs/12-governance/`.
+
+## Phase 5 — Scale — 🟡 ROADMAP COMPLETE / PERFORMANCE-GATED
+- 30 -> 50 adult herd through KPI gates.
+- 75–100 and 150–200 only after independent capacity/buyer/feed reviews.
+- Revenue sequencing: milk -> surplus genetics -> compost/vermicompost -> biogas savings -> direct milk -> processing.
+- Automation only with measured ROI.
+
+Primary file: `docs/07-expansion/SCALE_AND_REVENUE_ROADMAP.md`.
+
+## Next irreversible decision
+
+**Do not buy cows yet.** The next project step is Phase-2 commercial validation: site, milk buyer, quotations, financing and feed-land confirmation. Once those are written into the decision log, the build can start.

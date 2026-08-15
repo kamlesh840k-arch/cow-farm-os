@@ -1,0 +1,16 @@
+phase,status,gate,threshold_or_requirement,action_if_failed
+0,planning_complete,feasibility,conditional GO,revise concept
+1,complete,foundation_herd,30 breeding females,do not scale procurement
+1,complete,fodder_land,8-10 irrigated bigha,secure land/contract feed first
+2,pending_external,buyer_capacity,>=450 L/day documented,do not purchase animals
+2,pending_external,expected_realized_price,>=70 NPR/L or cash cost <=52 NPR/L,renegotiate buyer/cost base
+2,pending_external,capex,<=174.4 lakh excluding land plus <=10% overrun,return to investment decision
+2,pending_external,debt_share,prefer <=40%,increase equity/reduce capex
+3,execution_pending,feed_inventory,>=90 days before cow arrival,delay animal intake
+3,execution_pending,commissioning,water cooling milking chilling passed,correct system
+4,execution_pending,lactating_fraction,>=75% six-month target,freeze expansion
+4,execution_pending,milk_per_lactating_cow,>=17 saleable L/day,correct feed/health/genetics
+4,execution_pending,cash_cost,<=60 NPR/L,freeze expansion
+4,execution_pending,calf_mortality,<=5% rolling target,correct calf system
+5,performance_gated,expand_to_50,all core KPIs green for six months,stay at 30
+5,performance_gated,expand_beyond_50,new buyer/feed/housing/capital review,new DEC approval
