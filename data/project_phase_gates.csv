@@ -1,16 +1,21 @@
-phase,status,gate,threshold_or_requirement,action_if_failed
-0,planning_complete,feasibility,conditional GO,revise concept
-1,complete,foundation_herd,30 breeding females,do not scale procurement
-1,complete,fodder_land,8-10 irrigated bigha,secure land/contract feed first
-2,pending_external,buyer_capacity,>=450 L/day documented,do not purchase animals
-2,pending_external,expected_realized_price,>=70 NPR/L or cash cost <=52 NPR/L,renegotiate buyer/cost base
-2,pending_external,capex,<=174.4 lakh excluding land plus <=10% overrun,return to investment decision
-2,pending_external,debt_share,prefer <=40%,increase equity/reduce capex
-3,execution_pending,feed_inventory,>=90 days before cow arrival,delay animal intake
-3,execution_pending,commissioning,water cooling milking chilling passed,correct system
-4,execution_pending,lactating_fraction,>=75% six-month target,freeze expansion
-4,execution_pending,milk_per_lactating_cow,>=17 saleable L/day,correct feed/health/genetics
-4,execution_pending,cash_cost,<=60 NPR/L,freeze expansion
-4,execution_pending,calf_mortality,<=5% rolling target,correct calf system
-5,performance_gated,expand_to_50,all core KPIs green for six months,stay at 30
-5,performance_gated,expand_beyond_50,new buyer/feed/housing/capital review,new DEC approval
+phase,gate_id,gate,status,threshold_or_requirement,evidence_required,action_if_failed,review_cadence
+0,P0,research_foundation,complete_living,"Evidence classes and priority workstreams active",Master research program,"Refresh evidence; do not treat dated sources as current",monthly
+1,P1,strategic_concept,complete_quote_replaceable,"Launch range 40-60 total animals; master plan about 100; 12-14 L/day underwriting",Roadmap and integrated model,"Revise concept when stronger local evidence supports it",at material change
+2,A,milk_buyer,BLOCKER,"Primary written offer covers launch volume plus credible backup",Price/fat-SNF/deductions/quality/pickup/payment/volume terms,"No cattle purchase or major civil award",weekly until passed
+2,B,site_land_water,BLOCKER,"Secure tenure; surveyed/flood-safe site; year-round water/access/irrigation/power",Tenure survey flood history drainage bore yield water test irrigation and power evidence,"Reject or redesign site",per candidate site
+2,C,feed_fodder,BLOCKER,"Evidence-backed Base/Downside ration and annual roughage plan; 90-day intake inventory",Agronomy yields dry-matter balance nutritionist ration and 3 delivered quotes,"Delay/reduce herd or redesign feed strategy",monthly/seasonal
+2,D,cattle_sourcing,BLOCKER,"2 qualified traceable sources plus backup; every animal meets acceptance spec",Individual records vet exam/tests live prices transport/rejection terms,"Reject supplier/animal; delay intake",before deposit
+2,E,engineering_boq,BLOCKER,"Surveyed compliant design and 3 comparable BOQs; launch plus protected expansion",Drawings compliance matrix water/heat/drainage/load design BOQs commissioning plan,"Retender or redesign",at design freeze
+2,F,finance,BLOCKER,"Quote-backed Downside DSCR >=1.20x; positive minimum cash; no grant/interest-support dependency",3 lender term sheets collateral/equity/fees/moratorium and updated monthly model,"Increase equity; lower debt/scale/CAPEX; renegotiate economics or NO-GO",at each model update
+2,G,insurance,BLOCKER,"Acceptable binding cover before animal movement",2 quotes valuation wording exclusions subsidy mechanics claim deadlines,"No uninsured animal intake",before deposit and renewal
+2,H,FY2083_84_programmes,MONITOR,"Benefit booked only after open notice eligibility match and written approval",Official notice application and award,"Treat as zero/upside only; avoid ineligible pre-purchase",weekly
+2,I,compliance_environment,BLOCKER,"Written registration/tax/local/environment/waste/dead-stock pathway cleared",Compliance matrix approvals and site plans,"No civil work or processing activity",before civil award
+3,P3,feed_inventory,execution_locked,">=90 days feed inventory before first animal",Physical stock/contracts and quality record,"Delay animal movement",before each batch
+3,P3,commissioning,execution_locked,"Water cooling milking/chilling drainage manure backup and biosecurity tests passed",Signed commissioning records,"Correct defects before intake",before each batch
+4,P4,buyer_performance,execution_pending,"All contracted milk accepted and paid within terms",Daily collection quality and receivable records,"Freeze intake/expansion; activate backup",daily/monthly
+4,P4,yield_per_lactating_animal,execution_pending,">=approved underwriting case; 12-14 L/day current range",Individual saleable milk records,"Correct feed/health/genetics; freeze expansion",monthly
+4,P4,cash_cost,execution_pending,"Within approved Base/Downside model",Monthly management accounts,"Freeze expansion and correct cost base",monthly
+4,P4,calf_mortality,execution_pending,"<=5% rolling target unless vet-approved alternate",Calving/calf/mortality register,"Correct calf system; freeze expansion",monthly
+4,P4,debt_service,execution_pending,"DSCR >=1.20x and covenant; working-capital reserve intact",Monthly cash flow and lender statement,"Freeze expansion; cure covenant",monthly
+5,P5,expand_toward_100,performance_gated,"All critical KPIs green for >=6 consecutive months and spare system capacity",Board/owner investment memo,"Remain at launch scale",quarterly
+5,P5,expand_above_100,performance_gated,"New buyer feed chilling/processing management waste and capital case",Independent investment memo and approvals,"No expansion",before investment

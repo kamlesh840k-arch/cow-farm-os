@@ -1,176 +1,173 @@
-# COW Farm OS Roadmap
+# Cow Farm OS Roadmap
 
-**Blueprint status as of 2026-08-15:** planning is a living system. The commercial concept is sufficiently researched to move into validation, but no irreversible farm purchase/build decision should be made until the Phase-2 evidence gates below are passed.
+**State:** Phase 2 — commercial validation  
+**Updated:** 2026-08-15  
+**Current decision:** **NO-GO for cattle purchase and irreversible civil work**
 
-## Current strategic design
+## Strategy now in force
 
-- Location focus: Badhaiyatal, Bardiya, Lumbini Province, Nepal.
-- Launch target: **40–60 total animals at stabilized herd composition**.
-- Infrastructure master-plan: **~100 total animals** without demolishing core structures.
-- Expansion target: ~100 only after buyer/feed/reproduction/health/payment KPIs are proven.
-- 150+ animals: later-stage option only after independent capacity, buyer and feed review.
-- Underwriting yield: **12–14 L/day per lactating animal average**; do not build the investment case on exceptional genetic potential.
-- Subsidy policy: **exclude grants from the base-case economics**; use only verified/open FY2083/84 schemes as upside.
+- Location focus: Badhaiyatal, Bardiya, Lumbini Province.
+- Launch planning range: **40–60 total animals**; the screening model uses 50.
+- Core site layout and utilities: planned so the farm can expand to **about 100 total animals** without demolishing the main works.
+- Expansion beyond 100: new investment case, buyer contract, feed-capacity audit and management review.
+- Yield underwriting: **12–14 saleable L/day per lactating animal**. Exceptional seller claims do not support debt.
+- Capital: quote-backed and fit-for-purpose; **no legacy NPR 40–50 lakh or NPR 174.4 lakh ceiling**.
+- Grants: zero in Base and Downside. Interest subsidy: zero in Base and Downside. Current insurance premium support may be modeled only after eligibility and cash timing are confirmed.
 
-## Phase 0 — Research & feasibility — ✅ CORE RESEARCH COMPLETE / LIVING UPDATE
+The scale is a working hypothesis, not a commitment. Buyer capacity, feed cost, water, land, local quotations and downside debt coverage may justify a smaller launch, a staged launch, or a larger equity share.
 
-Completed evidence areas:
-- Bardiya/Terai dairy context and scale economics.
-- Herd-size comparison: 20 / 40 / 60 / 100 / 150 total animals.
-- Breed direction: adapted HF-cross and Jersey-cross strategy.
-- Feed-cost dominance and fodder/silage land planning.
-- Nepal/Lumbini/Bardiya subsidy and concessional-credit structure.
-- Current livestock-insurance subsidy framework.
-- Current Lumbini commercial dairy/livestock programme framework.
-- Commercial cow/buffalo welfare standard identified as a mandatory design reference.
+## Phase 0 — research foundation — COMPLETE / LIVING
 
-Living research still monitored:
-- New FY2083/84 Bardiya/Lumbini subsidy calls.
-- Milk procurement and payment conditions.
-- Local cattle prices, feed prices and contractor quotations.
-- Regulatory/insurance/banking changes.
+Completed:
 
-Primary files: `docs/01-research/`.
+- Nepal and Bardiya dairy context, genetics direction, feed-cost structure and phased-scale logic.
+- Official government, welfare, insurance and concessional-credit framework identified.
+- Evidence classification adopted: `CONFIRMED`, `BENCHMARK`, `ASSUMPTION`, `TO VALIDATE`.
 
-## Phase 1 — Farm concept — ✅ STRATEGY SET / ENGINEERING INPUTS PENDING
+Ongoing:
 
-- Starting operating envelope: 40–60 total animals.
-- Mature-system working mix: ~60% lactating, ~10% dry, ~15% replacement heifers, ~15% calves/young stock.
-- Genetics: HF-cross for volume + Jersey/HF×Jersey resilience cohort; procurement based on verifiable lactation, pregnancy and health records.
-- Feed: own/controlled roughage and silage treated as critical infrastructure.
-- Fodder planning envelope for 60 total animals: roughly 6–11 ha (9–16 Terai bigha), subject to actual crop yields, irrigation and purchased-feed strategy.
-- Farm design: loose housing, quarantine/sick/calving pens, heat-stress control, reliable water, drainage, manure handling, expansion lanes and utilities sized for ~100.
-- Semi-mechanized launch, with larger TMR/chilling/tractor investments performance-gated.
+- Local buyer/payment behavior, farm input prices, animal availability, climate/site risk and FY2083/84 notices.
 
-Pending before final engineering freeze:
-- Surveyed site.
-- Soil/water tests.
-- Summer climate/heat-load design values.
-- Vendor BOQs and civil quotations.
+## Phase 1 — concept and decision architecture — COMPLETE / QUOTE-REPLACEABLE
 
-Primary files: `docs/02-herd/`, `docs/03-feed/`, `docs/04-farm-design/`, `docs/09-phase-1/`.
+- Loose-housing concept with quarantine, calving, sick and youngstock separation.
+- Heat, water, drainage, milk hygiene, backup power and manure control treated as essential systems.
+- Roughage/silage security treated as infrastructure, not an afterthought.
+- Controlled-batch animal procurement and performance-gated expansion adopted.
+- Integrated model established at `data/financial-model/phase2-integrated-financial-model.xlsx`.
 
-## Phase 2 — Commercial validation — 🔴 NEXT ACTIVE PHASE
+The old 30-breeding-female/17 L/day operating model has been superseded. It remains useful only as historical analysis.
 
-No construction or cow purchase until these gates are documented.
+## Phase 2 — commercial validation — ACTIVE
 
-### Gate A — Milk market
-- Written offers from at least 3 buyers/collection routes.
-- Price formula by fat/SNF.
-- Rejection/adulteration/antibiotic-residue rules.
-- Pickup responsibility and collection timing.
-- Payment cycle and security for delayed payment.
-- Daily volume acceptance at launch and at ~100-head expansion.
+### Gate A — milk buyer — BLOCKER
 
-### Gate B — Feed & land
-- Confirm irrigated fodder land owned/leased/contracted.
-- Soil and irrigation test.
-- Seasonal fodder calendar.
-- Maize silage, Napier/green fodder and dry-roughage yields.
-- Delivered concentrate/feed ingredient quotations.
-- Nutritionist ration for lactating/dry/heifer/calf groups.
-- At least 70% of annual roughage requirement secured before 100-head expansion.
+Required:
 
-### Gate C — Animal procurement
-- Traceable sources for HF/Jersey-cross animals.
-- Live price quotations.
-- Lactation/yield evidence.
-- Pregnancy/parity/age records.
-- Mastitis test and disease-screening protocol.
-- Quarantine/transport/acclimatization plan.
+- one written primary offer and one credible backup;
+- daily acceptance for launch output and a documented expansion path;
+- fat/SNF formula, bonuses, deductions and rejection rules;
+- pickup responsibility, timing, holidays and cooling requirement;
+- payment days and supplier reference checks.
 
-### Gate D — Finance
-- Detailed CAPEX and 3–6 month working-capital model.
-- Bank offers, collateral and repayment schedules.
-- Concessional-loan eligibility checked against current NRB procedure.
-- Debt downside scenario at lower milk price/yield and higher feed cost.
-- Subsidy excluded from debt-service viability.
+Current lead: DDC's Nepalgunj Milk Supply Scheme states that Bardiya is in its work area and lists Bhurigaun and Sanoshree chilling centres. This is a lead, not a farm offer.
 
-### Gate E — Insurance & risk
-- Insurer valuation and premium quotation.
-- Current government premium subsidy confirmed in writing.
-- Mortality/disease/heat/power/water/business-interruption risks mapped.
+### Gate B — site, land and water — BLOCKER
 
-### Gate F — Government programmes
-- Badhaiyatal, Bardiya IALDO and Lumbini notices checked before procurement.
-- No asset purchased early if that could make the expense ineligible for a matching grant.
-- No duplicate subsidy claim for the same asset/cost.
+Required for each candidate site:
 
-### Gate G — Engineering & compliance
-- Commercial cow/buffalo welfare standard incorporated in design.
-- Local registration/PAN/tax/environmental/municipal requirements confirmed.
-- Water, drainage, manure and dead-animal disposal plan approved for the site.
+- tenure, cadastral/access evidence and surveyed levels;
+- flood/waterlogging history, drainage outfall and monsoon access;
+- bore/source yield test, water-quality test and one-day operational reserve;
+- reliable irrigation and an owned/leased/contracted feed-land plan;
+- electricity load and backup plan.
 
-## Phase 3 — Build & procurement — 🟡 PLAYBOOK READY / EXECUTION LOCKED
+Bardiya groundwater and municipal climate data are district context only. They cannot approve a specific site.
 
-Sequence after Phase-2 GO decision:
-1. Site preparation, drainage and utilities.
-2. Fodder establishment and silage capacity before herd arrival.
-3. Shed, quarantine, calving and sick pens.
-4. Water storage/troughs, cooling and backup power.
-5. Milking and milk-quality system.
-6. Manure/biogas/vermicompost interface.
-7. Acceptance testing.
-8. Animal procurement in controlled batches, not all at once.
+### Gate C — feed and fodder economics — BLOCKER
 
-Primary file: `docs/10-build/BUILD_PROCUREMENT_PLAN.md`.
+Required:
 
-## Phase 4 — Launch & stabilization — 🟡 PLAYBOOK READY / EXECUTION PENDING
+- measured or agronomist-approved seasonal yields and dry-matter conversion;
+- group rations for lactating, dry, heifer and calf classes;
+- at least three delivered quotations for major concentrate ingredients;
+- silage production/contracting budget including shrink and storage loss;
+- annual roughage balance and 90-day pre-arrival feed inventory.
 
-First 180-day priorities:
-- Intake quarantine and disease screening.
-- Daily individual milk records.
-- Feed intake/ration consistency.
-- Heat-stress control.
-- Mastitis/SCC screening.
-- Breeding and pregnancy records.
-- Mortality/morbidity tracking.
-- Milk rejection/spoilage tracking.
-- Buyer payment-days monitoring.
-- Actual vs model monthly P&L.
+### Gate D — cattle sourcing — BLOCKER
 
-Primary files: `docs/05-operations/`, `docs/11-launch/`, `docs/12-governance/`.
+Required:
 
-## Phase 5 — Scale — 🟡 PERFORMANCE-GATED
+- two qualified traceable sources plus backup;
+- individual ID, age, parity, days-in-milk, prior lactation and pregnancy records;
+- vet examination, CMT/mastitis and applicable disease testing;
+- live price, transport, rejection and replacement terms;
+- batch schedule compatible with quarantine capacity and cash flow.
 
-### 40–60 -> ~100 total animals
-Proceed only after several consecutive months meeting all critical KPIs:
-- saleable milk yield at/above underwriting target;
-- buyer takes full volume and pays on time;
-- mastitis, mortality and reproductive metrics within limits;
-- feed inventory/land output proven;
-- sufficient trained labour and supervisor coverage;
-- working-capital reserve intact;
-- utilities/milking/manure systems have spare capacity.
+Official breeding-network information is a genetics lead, not a live-animal quotation.
 
-### ~100 -> 150+
-Require a new investment memo, updated buyer contract, feed-capacity audit, management-depth review and processing/chilling study.
+### Gate E — engineering and BOQ — BLOCKER
 
-Revenue sequencing:
-1. Milk.
-2. Surplus breeding stock/culls where economical.
-3. Compost/vermicompost.
-4. Biogas energy/fuel savings.
-5. Third-party milk collection only if controls and margin justify it.
-6. Direct milk/value-added processing only after a separate market/compliance investment case.
+Required:
 
-Primary file: `docs/07-expansion/SCALE_AND_REVENUE_ROADMAP.md`.
+- surveyed concept drawings and compliance matrix;
+- water balance, drainage/manure mass balance, electrical load and heat-control design;
+- at least three comparable BOQs for major civil/equipment packages;
+- launch sizing with protected expansion corridors to about 100 animals;
+- commissioning tests before animal movement.
 
-## Current GO / NO-GO rule
+### Gate F — finance — BLOCKER
 
-**Do not buy cows yet.**
+Required:
 
-The next irreversible decision remains Phase-2 commercial validation: **site + milk buyer + feed land + live quotations + financing + insurance + compliance**. Once these are documented and the downside case still services debt, the project can move to build.
+- ADBL plus at least two comparable lender term sheets;
+- sanctioned amount, equity, collateral, fees, moratorium and repayment schedule;
+- monthly cash-flow model using buyer and quotation evidence;
+- **Downside DSCR at least 1.20x** without grant or interest-subsidy dependence;
+- fully funded construction contingency, receivables and 3–6 months working capital.
 
-## Living-monitoring cadence
+Current screening result:
 
-The roadmap should be reviewed whenever any of the following changes materially:
-- subsidy or grant notice;
-- concessional-credit rules or bank pricing;
-- livestock-insurance subsidy;
-- local milk price/buyer payment behavior;
-- feed/fodder prices;
-- cattle procurement prices/availability;
-- disease outbreak or biosecurity requirement;
-- site/land/irrigation availability;
-- actual farm KPIs after launch.
+| Metric | Downside | Base | Upside |
+|---|---:|---:|---:|
+| Total animals | 50 | 50 | 50 |
+| Saleable milk, L/day | 296 | 378 | 456 |
+| EBITDA, NPR/year | (3.50m) | 1.00m | 4.37m |
+| Cash cost, NPR/L | 90.9 | 59.7 | 47.2 |
+| DSCR | (1.49x) | 0.58x | 3.89x |
+| DSCR gate | FAIL | FAIL | PASS |
+
+Screening funding envelope: **NPR 23.60m**, including NPR 18.11m CAPEX/contingency, four Base-case OPEX months, buyer receivables and feed establishment. Every allowance must be replaced with evidence.
+
+### Gate G — insurance — BLOCKER
+
+Required: at least two quotations, policy wording, valuation method, tags/health certificate requirements, exclusions, reporting deadlines, subsidy mechanics and proof coverage is binding before animals move.
+
+### Gate H — FY2083/84 programmes — MONITOR
+
+Current public budgets/frameworks are not farm awards. Record a benefit only after an open notice, eligibility match and written approval. Do not pre-purchase an asset where this would invalidate a claim.
+
+### Gate I — compliance and environment — BLOCKER
+
+Required: business/PAN/tax position, municipal construction path, livestock listing, scale/site environmental determination, labour checklist, wastewater/manure and dead-stock plan.
+
+## Phase 3 — build and procurement — LOCKED
+
+Unlock only after all critical gates pass. Sequence:
+
+1. Site, drainage, utilities and biosecurity perimeter.
+2. Fodder establishment, silage/storage and feed inventory.
+3. Shed, quarantine, maternity, sick and youngstock areas.
+4. Water, cooling, backup power, milking and chilling interface.
+5. Manure/wastewater system and commissioning.
+6. Animals in controlled batches after feed, insurance and buyer activation.
+
+## Phase 4 — launch and stabilization — READY / NOT STARTED
+
+First-180-day controls: individual milk, ration/stock, health/withdrawal, reproduction, mastitis, mortality, rejection/spoilage, buyer receivables, monthly P&L and cash flow.
+
+## Phase 5 — expansion — PERFORMANCE-GATED
+
+Expand toward 100 only after at least six consecutive months of:
+
+- buyer taking all contracted volume and paying within terms;
+- yield at or above the approved underwriting case;
+- feed cost/litre and inventory within plan;
+- acceptable health, fertility, mortality and milk-quality KPIs;
+- DSCR at or above covenant with working-capital reserve intact;
+- spare water, cooling, milking, labour and manure capacity.
+
+## Immediate 30-day work queue
+
+1. Complete buyer validation pack with DDC/Bhurigaun/Sanoshree and at least two other routes.
+2. Shortlist two sites and finish flood, levels, water, irrigation, power and access evidence.
+3. Commission ration/feed-land work and collect three ingredient/roughage quotations.
+4. Issue cattle source questionnaire and veterinary acceptance protocol.
+5. Issue engineering request for proposal and obtain comparable BOQs.
+6. Submit the same evidence pack to three lenders and two insurers.
+7. Refresh government-notice watch weekly.
+8. Replace workbook assumptions, rerun scenarios and record a formal GO/NO-GO decision.
+
+## Decision rule
+
+Continue reversible research and commercial outreach. **Do not buy cattle, award major civil works or depend on subsidy until the evidence register is cleared and the quote-backed Downside case reaches DSCR ≥1.20x.**

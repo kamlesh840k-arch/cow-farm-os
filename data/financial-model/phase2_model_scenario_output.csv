@@ -1,0 +1,17 @@
+metric,units,downside,base,upside
+total_animals,head,50,50,50
+lactating_animals,head,28,30,31
+daily_saleable_milk,L/day,295.68,378.30,455.70
+annual_saleable_milk,L/year,107923.20,138079.50,166330.50
+total_operating_revenue,NPR/year,6313507.20,9244422.53,12225291.75
+total_cash_opex,NPR/year,9814580.58,8247150.05,7854832.75
+ebitda_before_debt,NPR/year,-3501073.38,997272.48,4370459.00
+cash_cost,NPR/L,90.94,59.73,47.22
+screening_funding_envelope,NPR,23598735.02,23598735.02,23598735.02
+debt_share,percent,50,40,30
+debt_amount,NPR,11799367.51,9439494.01,7079620.51
+net_interest_rate,percent,10.00,7.06,3.06
+annual_debt_service,NPR/year,2350601.66,1712931.45,1124840.60
+dscr,x,-1.49,0.58,3.89
+buyer_receivables,NPR,1037836.80,737685.00,478485.00
+dscr_gate,pass_fail,FAIL,FAIL,PASS

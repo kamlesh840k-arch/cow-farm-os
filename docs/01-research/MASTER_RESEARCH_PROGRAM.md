@@ -1,363 +1,174 @@
 # Cow Farm OS — Master Research Program
 
 **Updated:** 2026-08-15  
-**Project area:** Badhaiyatal, Bardiya, Lumbini Province, Nepal  
-**Purpose:** Maintain one research register for every decision required before building, launching and scaling the dairy farm.
+**Area:** Badhaiyatal, Bardiya, Lumbini Province  
+**Purpose:** Convert research into auditable commercial evidence before capital is committed.
 
-## Research rule
+## Evidence standard
 
-Every major conclusion must be tagged as one of:
+Every decision input must be labeled:
 
-- **CONFIRMED — primary/official source:** law, regulation, government programme, standard, bank/insurer/buyer document.
-- **BENCHMARK — research/industry evidence:** useful planning evidence but not a binding commercial term.
-- **ASSUMPTION — model input:** used only for screening until replaced with local quotation/data.
-- **TO VALIDATE — commercial/site input:** must be obtained locally before an irreversible decision.
+- **CONFIRMED:** current official/primary evidence.
+- **BENCHMARK:** useful research or market context, not binding.
+- **ASSUMPTION:** screening input awaiting local proof.
+- **TO VALIDATE:** farm-specific evidence required.
 
-Do not convert an old subsidy rate, media article, exceptional cow yield, or seller claim into the base-case investment model without current verification.
+A public budget is not a grant award. A minimum milk price is not a buyer offer. A bull pedigree is not a cattle quotation. District groundwater potential is not a bore-yield test. Seller-reported peak milk is not an underwritable lactation record.
 
-## 1. Market and milk offtake
+## Research workstreams
 
-### Confirmed / benchmark
-- Nepal has an established formal dairy system including DDC and cooperative/private collection channels.
-- Milk pricing is quality-dependent; fat/SNF and buyer-specific deductions materially affect realized price.
-- DDC has a Nepalgunj milk supply presence and has announced FY2083/84 modernization of milk collection.
+| ID | Workstream | Current evidence | Critical unanswered question | Required output | Gate |
+|---|---|---|---|---|---|
+| R01 | Milk offtake | DDC confirms Bardiya coverage and chilling-centre context | Who will buy launch volume, at what realized formula and payment cycle? | Primary written offer + backup | A |
+| R02 | Buyer credit/operations | Historical Bardiya value-chain leads exist | Does the buyer pay reliably and collect during holidays/flush season? | Supplier references + route observation | A |
+| R03 | Site tenure/access | Badhaiyatal geography identified | Is tenure secure and is the route passable year-round? | Title/lease, map, access record | B |
+| R04 | Flood/drainage | Bardiya flood exposure is material | Is each pad above design flood and can drainage discharge legally? | Survey, flood history, drainage concept | B/E/I |
+| R05 | Water/irrigation | District groundwater context exists | What is source yield/quality in lean season? | Pump test, lab report, irrigation plan | B |
+| R06 | Feed/fodder | Feed is the dominant cost; planning envelope exists | What is delivered dry-matter and ration cost in Bardiya? | Agronomy yield plan, ration, 3 quotes | C |
+| R07 | Cattle sourcing | NLBO breeding/pedigree leads exist | Which traceable animals meet health, yield and adaptation spec at live prices? | Qualified source register + records | D |
+| R08 | Health/biosecurity | Bardiya public vet/lab services listed | Which tests are available, how fast, and who signs acceptance? | Vet protocol + service confirmation | D/G/I |
+| R09 | Engineering | Welfare/management directives identified | What buildable design and CAPEX meet site, heat, water and expansion needs? | Drawings, compliance matrix, 3 BOQs | E/I |
+| R10 | Milk handling | Buyer/chilling route not contracted | Is on-farm chilling required and for how long? | Pickup interface + equipment quote | A/E |
+| R11 | Finance | Current NRB framework and ADBL benchmarks identified | What amount/tenor/collateral/moratorium will lenders sanction? | 3 comparable term sheets | F |
+| R12 | Insurance | 2082 premium-support procedure confirmed | What valuation, premium, exclusions and cash timing apply to this herd? | 2 quotations + wording | G |
+| R13 | FY2083/84 programmes | Lumbini programme budgets identified | Is there an open farm-specific call and is the proposed purchase eligible? | Notice/eligibility tracker | H |
+| R14 | Legal/environment | Relevant government standards/directives found | What site/scale approvals are required before civil work? | Signed compliance matrix | I |
+| R15 | Financial model | Integrated scenario model complete | Does quote-backed Downside DSCR reach 1.20x? | Updated workbook + decision memo | F/all |
 
-### Required local research
-- Obtain written offers from at least three Bardiya/Nepalgunj buyer/collection routes.
-- Record base rate, fat/SNF formula, bonuses/deductions, antibiotic/adulteration rejection rules, transport responsibility, pickup times, holiday handling, maximum daily acceptance and payment days.
-- Check buyer financial/payment reliability from local suppliers.
-- Build downside case for 30-day and 60-day payment delays.
+## 1. Milk buyer research protocol
 
-### Decision gate
-No herd purchase until one primary buyer and one backup route can absorb Phase-1 output, with a credible pathway to ~100-head output.
+Research DDC/Bardiya collection routes, cooperatives, private processors and institutional/direct channels. For every route capture legal name, collection point, daily lean/flush capacity, launch acceptance, expansion acceptance, fat/SNF calculation, base price date, transport, rejection/antibiotic rules, pickup failure response, payment days, security/deductions and three supplier references where possible.
 
-## 2. Herd genetics and procurement
+Minimum decision evidence:
 
-### Current direction
-- Commercial herd should combine adapted HF-cross volume genetics with Jersey/HF×Jersey resilience rather than maximizing exotic blood percentage.
-- Financial underwriting should use 12–14 L/day average lactating yield until farm data proves more.
+- one signed written primary offer covering expected launch litres;
+- one independent credible backup;
+- price/payment terms modeled exactly;
+- route observed at milking/collection time;
+- no single unmitigated collection or payment failure point.
 
-### Required research
-- Identify at least 3 traceable source farms/markets.
-- Compare animal price by age, parity, days-in-milk, pregnancy status, prior lactation, fat %, udder/teat quality and disease-test history.
-- Define mandatory pre-purchase examination: identity, age/dentition, BCS, locomotion, udder/teat, CMT/mastitis, pregnancy/reproductive tract, vaccination, TB/brucellosis or other applicable disease testing, transport fitness.
-- Determine batch-procurement strategy and quarantine capacity.
+## 2. Site, land, flood and water
 
-### Decision gate
-Do not buy an animal based on visual appearance or seller-reported peak yield alone.
+For each of at least two candidate sites:
+
+- identify owner, parcel/lease term, permitted use and road rights;
+- survey boundaries, levels, pad, drains, route and expansion reserve;
+- document 10-year local flood/waterlogging experience and recent monsoon access;
+- confirm drainage outfall and separation of stormwater from contaminated flows;
+- perform bore/source yield and cattle/equipment water-quality tests;
+- prepare daily water balance for drinking, washdown, cooling and fire/contingency;
+- verify grid load, outage pattern and backup;
+- identify fodder land, irrigation, contract rights and haul distance.
+
+Reject a site if flood, water, access, drainage or tenure cannot be economically mitigated.
 
 ## 3. Feed, fodder and nutrition
 
-### Confirmed / benchmark
-- Feed is the dominant dairy production cost in Nepal and therefore the main structural profit lever.
-- Silage and perennial green fodder can reduce seasonal roughage risk.
+Build the annual dry-matter balance by animal class. The research package must include:
 
-### Current planning envelope
-- 60 total animals: roughly 6–11 ha / 9–16 Terai bigha of intensive fodder planning area if a large share of roughage is produced internally.
-- Actual requirement must be recalculated from site yields and ration formulation.
+- seasonal crop and harvest calendar;
+- local fresh yield, dry-matter %, number of cuts/crops and irrigation requirement;
+- seed/fertilizer/labour/machinery/water/land cost;
+- ensiling, storage and feed-out losses;
+- delivered straw, by-product, protein, energy, mineral and commercial feed quotes;
+- nutritionist rations for lactating, dry/close-up, heifer and calf groups;
+- feed cost/head/day and feed cost/litre by scenario;
+- supplier/contract backup and 90-day pre-arrival stock plan.
 
-### Required research
-- Soil analysis and irrigation water quantity/quality.
-- Seasonal cropping calendar: maize silage, Napier/other perennial fodder, winter fodder, legumes, crop residues.
-- Local fresh yield and dry-matter yield per bigha.
-- Storage loss and silage shrink assumptions.
-- Delivered prices for maize, bran, oilcakes/protein meals, minerals, salt and commercial concentrate.
-- Separate least-cost balanced rations for high/medium/low lactation, dry cows, close-up cows, heifers and calves.
-- Nutritionist validation of protein, energy, NDF/fiber, minerals and transition-cow strategy.
+The 6–11 ha planning range for 60 animals remains a screening envelope only. Land can be lower with reliable purchased/contracted roughage, or higher with conservative yields and retained youngstock.
 
-### Decision gate
-Feed plan must demonstrate a secured annual roughage inventory plus working capital for concentrate before herd intake.
+## 4. Cattle sourcing and genetics
 
-## 4. Site and civil engineering
+Direction remains adapted HF-cross and Jersey/HF-Jersey types selected for lifetime economics, fertility, feet/legs, udder and heat adaptation. Do not set exotic-blood percentage or breed name as a substitute for records.
 
-### Confirmed
-- Lumbini has a commercial cow/buffalo welfare standard (2080) that must be incorporated into design.
+For each candidate animal collect ID, source farm, breed/cross, birth/age evidence, parity, calving date, days-in-milk, prior and current test milk, fat/SNF if available, services/pregnancy, mastitis/treatment/withdrawal, vaccination, reproductive history, body condition, locomotion, udder/teat exam and applicable tests. Vet and buyer acceptance criteria must be agreed before deposits.
 
-### Required research
-- Site survey and levels.
-- Flood/waterlogging history.
-- Road access for feed trucks, animal trailers and milk pickup.
-- Electricity reliability and transformer/load requirements.
-- Borewell/municipal water feasibility and tested yield.
-- Drainage outfall.
-- Wind/sun orientation and summer heat-load analysis.
-- Local building permit/environmental requirements.
-- BOQ from multiple contractors.
+Purchase in batches after quarantine, feed and buyer systems operate. At least two qualified sources plus backup are required.
 
-### Design principles
-- Loose housing.
-- Separate lactating, dry, maternity, calf, heifer, quarantine and sick areas.
-- Expansion without demolition to ~100 head.
-- Shade, airflow, fans/sprinklers where required.
-- Non-slip floors, adequate loafing area and clean water access.
-- Dedicated milk room and hygienic equipment-cleaning workflow.
+## 5. Engineering and BOQs
 
-## 5. Water
+The engineer must translate the current Lumbini cow/buffalo welfare standard and applicable national livestock good-practice/milk-hygiene directives into a compliance matrix. Scope must cover:
 
-### Required research
-- Determine daily requirement by class plus washdown and cooling.
-- Design at least one-day operational reserve; assess larger reserve for power/borewell outage.
-- Test source for salinity/TDS, hardness, microbial quality and contaminants relevant to cattle/equipment.
-- Size trough flow rate so dominant cows do not restrict access.
+- launch areas for 40–60 animals and protected expansion to about 100;
+- lactating/dry/heifer/calf, calving, sick and quarantine separation;
+- shade, orientation, ridge/open sides, fans/soakers and summer water capacity;
+- non-slip floors, feed/water access, cow lanes and vehicle/people biosecurity;
+- dedicated milk room, hot water, cleaning/CIP and chilling/pickup interface;
+- clean stormwater, manure, wastewater, compost/biogas and dead-stock routes;
+- electrical, pumping, cooling and critical backup load;
+- bill of quantities, unit, quantity, rate, amount, contingency, warranty and commissioning.
 
-### Decision gate
-No site approval without dependable year-round water supply and backup pumping/power.
+Obtain three comparable quotations for major packages. Do not force the design into a prior budget ceiling.
 
-## 6. Heat stress and climate resilience
+## 6. Finance, insurance and programmes
 
-### Required research
-- Obtain Bardiya monthly temperature/humidity profile and extreme summer design values.
-- Calculate THI risk periods.
-- Compare natural ventilation, ridge/open-sided housing, fans, sprinklers/fogging, roof insulation/reflective materials and shade.
-- Include cooling electricity/water cost in OPEX.
+### Finance
 
-### Decision gate
-High-HF animals are permitted only if cooling, water and ration density support summer intake.
+Current official framework permits eligible agriculture/livestock loans up to NPR 5 crore, caps lender pricing for the programme at base rate +1.5%, and provides 3% government interest support for up to five years, subject to eligibility and bank appraisal. Loans above NPR 10 lakh require the relevant local branch recommendation. Confirm all terms in the lender's current sanction.
 
-## 7. Milking and milk handling
+Collect ADBL and two alternative term sheets using one evidence pack. Compare gross rate, applicable subsidy, post-subsidy rate, tenor, moratorium, repayment frequency, collateral, equity, fees, covenants, insurance and prepayment.
 
-### Phase-1 research
-- Compare bucket/portable milking, pipeline and small parlour systems for 24–36 lactating cows.
-- Compare expansion path to ~60 lactating cows.
-- Determine milk pickup interval and need for bulk milk cooler.
-- Specify fat/SNF analyser, weighing, filter, CIP/cleaning, hot-water requirement and mastitis monitoring.
-- Backup power must protect milk cooling and water supply.
+### Insurance
 
-### Decision gate
-Milking system should achieve hygiene and labour targets at Phase 1 and allow economically sensible expansion.
+The 2082 procedure describes tiered premium support: 80% for insured value up to NPR 50 lakh, 65% for NPR 50 lakh–1 crore and 50% above NPR 1 crore. Confirm how the tier applies, who advances/reimburses the supported portion, valuation limits, causes covered, exclusions, ID/vet requirements and claim deadlines.
 
-## 8. Animal health and biosecurity
+### Programmes
 
-### Confirmed
-- Badhaiyatal/Lumbini government livestock services include animal-health, vaccination and technical-service programmes, subject to local implementation.
+Lumbini FY2083/84 budgeting includes cow/buffalo in an integrated commercial value-chain programme. This is a programme envelope, not an open farm award. Maintain a weekly watch of Badhaiyatal, Bardiya IALDO, Lumbini DOLFD and federal notices. Base/Downside models include no grant income.
 
-### Required research
-- Local veterinarian and emergency coverage.
-- Vaccination calendar for farm location.
-- Deworming/parasite strategy based on risk rather than indiscriminate dosing.
-- Mastitis prevention and treatment protocol.
-- Hoof/lameness programme.
-- Metabolic disease/transition-cow prevention.
-- Calf colostrum and neonatal programme.
-- Mortality/dead-stock disposal procedure.
-- Visitor/vehicle biosecurity.
-- Isolation duration and testing for purchased animals.
+## 7. Integrated financial model
 
-## 9. Reproduction
+The model must remain monthly, formula-driven and evidence-linked. Update:
 
-### Required research
-- AI availability and semen options.
-- Heat detection method and records.
-- Voluntary waiting period and pregnancy-check schedule.
-- Rebreeding/cull rules.
-- Replacement-rate target.
-- Sexed semen economics vs conventional semen.
+- herd structure and production ramp;
+- realized buyer price, rejection and payment days;
+- ration/feed prices and land/contract cost;
+- cattle quotations and mortality/replacement assumptions;
+- engineering/equipment CAPEX and timing;
+- construction contingency and 3–6 months working capital;
+- gross finance costs, fees and post-support expiry;
+- insurance premium/valuation and claim cash timing;
+- taxes, depreciation and owner/manager compensation for bankable DPR stage.
 
-### Core KPI set
-- Days to first service.
-- Conception/pregnancy rate.
-- Days open.
-- Calving interval.
-- Abortion/stillbirth rate.
-- Age at first calving for replacements.
+Minimum stresses: milk price -10%, saleable yield -15%, feed +20%, 60-day receivables, construction overrun, disease/withdrawal loss and interest support expiry.
 
-## 10. Labour and organization
+No GO unless the quote-backed Downside case reaches **DSCR ≥1.20x** and maintains positive minimum cash without grant dependence.
 
-### Required research
-- Local wage rates, housing/food expectations, working hours and availability of skilled dairy labour.
-- Define staffing for 40, 60 and 100 total animals.
-- Separate owner/manager role from routine livestock labour.
-- Create relief/night/emergency coverage.
-- Define authority for buying feed, medicines and approving animal treatment/culling.
+## 8. Operations, data and expansion research
 
-### Management principle
-A commercial dairy should not depend on one irreplaceable worker.
+Daily animal data: ID/class/parity/days-in-milk, AM/PM milk, ration group, health/treatment/withdrawal, CMT/mastitis, heat/service/pregnancy, calving/calf, movement/cull/death.
 
-## 11. Machinery and utilities
+Daily farm data: milk produced/sold/rejected, fat/SNF, feed issued/stock, water/power interruption, buyer collection, receivables and manure handling.
 
-### Research list
-- Chaff cutter.
-- Feed mixer/TMR wagon or lower-cost alternative.
-- Tractor/loader vs outsourced services.
-- Silage harvesting/packing equipment or contract service.
-- Milking equipment.
-- Bulk milk cooler.
-- Generator/solar/inverter.
-- Water pumps.
-- Weighing/quality instruments.
-- Manure handling equipment.
+Monthly decision pack: litres/lactating animal/day, milk realization, feed/litre, labour/litre, health/litre, reproduction, mortality, EBITDA, minimum cash, receivable days and DSCR.
 
-### Decision rule
-Buy equipment only when annual labour/service savings and reliability justify ownership; do not buy machinery merely because a subsidy exists.
+Expansion toward 100 needs six green months plus spare system capacity. Expansion above 100 needs a new buyer, feed, processing/chilling, management, waste and capital review.
 
-## 12. Manure, biogas, compost and vermicompost
+## Current official/primary anchors
 
-### Research required
-- Measure manure and wastewater production by herd size.
-- Separate clean stormwater from contaminated wastewater.
-- Evaluate anaerobic digester size, gas use, slurry handling and maintenance.
-- Confirm technical pathway: digested slurry/solids can be composted/vermicomposted after appropriate stabilization and moisture management; earthworms should not be exposed to hot, fresh or anaerobic slurry.
-- Market test compost/vermicompost prices locally before assigning revenue.
-- Compare biogas value as LPG/electric/thermal savings versus selling manure products.
+- DDC Nepalgunj Milk Supply Scheme: https://ddc.gov.np/projects/nmss
+- MoALD livestock insurance premium-support procedure 2082: https://moald.gov.np/content/422/procedure-for-providing-subsidy-on-premiums-of/
+- Agriculture Diary 2083: https://aitc.gov.np/uploads/documents/agriculture-diary-2083-final-2083-01-3-webpdf-5908-955-1776340666.pdf
+- NRB concessional-loan first amendment, 2083/84: https://www.nrb.org.np/bfr/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%A8%E0%A4%82-%E0%A5%A8-%E0%A5%A6%E0%A5%AE%E0%A5%A9-%E0%A5%AE%E0%A5%AA-%E0%A4%B8%E0%A4%B9%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%A4/
+- NRB concessional-loan reporting: https://www.nrb.org.np/category/concessional-loan/
+- ADBL base rate: https://adbl.gov.np/en/base-rate
+- ADBL Shrawan 2083 rates: https://adbl.gov.np/en/interest-rate/interest-rates-effective-from-shrawan-01-2083-17-july-2026
+- Lumbini FY2083/84 budget: https://moeap.lumbini.gov.np/media/budgets/budget.pdf
+- Badhaiyatal municipality: https://badhaiyatalmun.gov.np/
+- Bardiya groundwater context: https://www.dwri.gov.np/files/notice/20210805070907.pdf
+- Bardiya dairy value-chain study: https://libird.org/wp-content/uploads/2022/04/Diary-Value-Chain-Report.pdf
+- NLBO cattle breeding/pedigree leads: https://nlbo.gov.np/bull-group/1/2021/71411744/
+- Bardiya IALDO citizen charter: https://ialdobardiya.lumbini.gov.np/officeDetail/citizen-charter?language=en
+- Lumbini DOLFD policy/standard register: https://dolfd.lumbini.gov.np/
+- NDDB minimum raw-milk-price benchmark: https://nddb.gov.np/pages/minimum-price-of-raw-milk/
 
-### Base-case rule
-Treat manure income conservatively until actual product, nutrient analysis, packaging, demand and transport costs are validated.
+## Current priority order
 
-## 13. Legal, tax and compliance
-
-### Required research
-- Business entity/firm/company registration path.
-- PAN/VAT applicability.
-- Municipality/ward registration and building permissions.
-- Livestock-farm registration/listing requirements.
-- Environmental screening/IEE/EIA threshold if applicable to the selected scale/site.
-- Labour-law obligations.
-- Milk collection/processing/packaging licences if the project later enters processing/direct retail.
-- Recordkeeping required for subsidy, insurance and bank finance.
-
-### Decision gate
-Compliance matrix signed off before civil work and before any processing/value-addition investment.
-
-## 14. Insurance
-
-### Confirmed
-- Federal crop/livestock insurance premium-subsidy procedure remains active; current procedure must be checked when policy is issued.
-
-### Required research
-- Get written quotations from participating insurers.
-- Animal valuation method.
-- Premium rate and current government subsidy share.
-- Covered causes/exclusions.
-- Required ear-tag/ID, health certificate and claim documentation.
-- Mortality reporting deadline and carcass verification requirements.
-
-## 15. Finance and banking
-
-### Confirmed
-- NRB maintains the concessional-loan interest-subsidy programme and publishes current subsidized-loan data.
-- Agriculture/livestock lending is an eligible category under the current framework, subject to bank appraisal and current procedure.
-
-### Required research
-- Competing term sheets from ADBL plus at least two other banks.
-- Base rate/spread, government interest-subsidy mechanics, collateral, equity margin, moratorium, repayment frequency, fees and insurance requirements.
-- Cash-flow model monthly, not annual only.
-- Downside stress: milk price -10%, yield -15%, feed +20%, 60-day buyer delay, disease event, interest shock after subsidy expiry.
-
-### Decision rule
-The farm must service debt without assuming grant approval.
-
-## 16. Subsidies and government programmes
-
-### Current verified areas to monitor
-- Lumbini agriculture/livestock development programmes.
-- Bardiya Integrated Agriculture & Livestock Development Office calls.
-- Badhaiyatal livestock, fodder, animal-health and insurance programmes.
-- Silage/mechanization programmes.
-- Dairy chilling/collection support when a current call exists.
-
-### Rule
-Only an **open current-FY notice** with eligibility matching the farm is considered available. Previous-year subsidy rates are references, not receivables.
-
-## 17. CAPEX and procurement
-
-### Required live quotations
-- Land lease/purchase if applicable.
-- Earthworks/drainage.
-- Shed/civil works.
-- Water system.
-- Electrical/solar/backup.
-- Milking and cooling.
-- Feed/silage infrastructure.
-- Machinery.
-- Animal purchase and transport/quarantine.
-- Veterinary setup.
-- Biogas/manure system.
-- Office/IT/CCTV/recording system.
-- Contingency.
-
-### Procurement rule
-Use at least three comparable quotes for major assets where practical, technical acceptance criteria, warranties and staged payments.
-
-## 18. Working capital
-
-### Required model
-At minimum include:
-- feed inventory;
-- wages;
-- veterinary/AI/medicines;
-- utilities;
-- transport;
-- insurance;
-- debt service;
-- delayed milk payments;
-- emergency reserve.
-
-Target 3–6 months of realistic cash requirement depending buyer payment terms and debt structure.
-
-## 19. Farm operating system and data
-
-Daily per-animal records:
-- ID/class/parity/lactation days;
-- AM/PM milk;
-- feed/ration group;
-- heat/service/pregnancy;
-- health/treatment/withdrawal period;
-- mastitis/CMT;
-- calving/calf outcome;
-- movement/cull/death.
-
-Daily farm records:
-- milk produced/sold/rejected;
-- fat/SNF/quality;
-- feed issued/stock;
-- water/power interruption;
-- manure/biogas output;
-- buyer collection/payment.
-
-Monthly management pack:
-- litres/cow/day;
-- milk income;
-- feed cost/litre;
-- labour cost/litre;
-- veterinary cost/litre;
-- conception/pregnancy metrics;
-- mortality/culling;
-- EBITDA/operating cash flow;
-- receivable days;
-- debt coverage.
-
-## 20. Expansion research
-
-### 40–60 -> ~100
-Only after launch KPIs prove the business.
-
-### ~100 -> 150+
-Require a new investment case covering:
-- buyer concentration;
-- chilling/processing;
-- feed land and silage capacity;
-- professional management depth;
-- manure/wastewater capacity;
-- working capital;
-- disease concentration risk.
-
-## Current primary-source anchors
-
-- Nepal Rastra Bank BFR / concessional-loan procedure and current reports: https://www.nrb.org.np/departments/bfr/
-- NRB subsidized-loan reports: https://www.nrb.org.np/category/concessional-loan/subsidized-loan/
-- Federal crop/livestock insurance premium subsidy procedure 2082: https://moald.gov.np/content/422/procedure-for-providing-subsidy-on-premiums-of/
-- Federal FY2083/84 agriculture budget/programme: https://moald.gov.np/content/478/budget-and-program-of-the-ministry-of/
-- Lumbini agriculture/livestock policies incl. commercial cow/buffalo welfare standard 2080: https://molmac.lumbini.gov.np/en/policies
-- Bardiya IALDO notices: https://ialdobardiya.lumbini.gov.np/
-
-## Immediate research priority order
-
-1. Site/land/irrigation evidence.
-2. Written milk-buyer offers.
-3. Feed ingredient and fodder-production costs.
-4. Live animal sourcing and veterinary-screening protocol.
-5. Civil/milking/cooling/water/power BOQs.
-6. Bank and insurance term sheets.
-7. Current FY subsidy calls.
-8. Full monthly financial model and downside test.
-9. Only then: final GO/NO-GO and build start.
+1. Written buyer terms and supplier references.
+2. Two-site survey/flood/water/irrigation/access package.
+3. Nutritionist ration, local yields and delivered feed quotes.
+4. Traceable cattle sources, records, vet tests and live prices.
+5. Surveyed engineering basis and comparable BOQs.
+6. Lender and insurer term sheets.
+7. FY2083/84 notice watch.
+8. Workbook refresh and formal GO/NO-GO memo.
