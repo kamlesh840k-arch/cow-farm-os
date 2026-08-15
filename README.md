@@ -1,51 +1,29 @@
 # COW Farm OS
 
-Single source of truth for planning, researching, designing, financing, building, and operating a modern dairy farm in Nepal.
+Single source of truth for planning, building and operating the COW Farm project in Bardiya, Nepal.
 
-## Project intent
+## Start here
 
-Build a capital-efficient, scalable dairy operation using strong genetics, disciplined feeding, good cow comfort, reliable reproduction, clean farm management, and data-driven decisions.
+Read `FULL_PROJECT_BLUEPRINT.md` for the complete Phase 0–5 blueprint, then use `ROADMAP.md` for current status and execution gates.
 
-The project will study leading farms such as Banjara Agro, but will not blindly copy their scale or capital intensity. We will separate verified facts from benchmarks, assumptions, and our own decisions.
+## Core modules
 
-## Evidence labels
+- `docs/01-research/` — feasibility, Banjara Agro research and benchmarks
+- `docs/02-herd/` — herd, genetics and breeding
+- `docs/03-feed/` — feed, fodder and silage
+- `docs/04-farm-design/` — functional farm design and manure flow
+- `docs/05-operations/` — daily operations and SOPs
+- `docs/06-finance/` — investment case, subsidy/compliance and insurance
+- `docs/07-expansion/` — scale and revenue roadmap
+- `docs/08-decisions/` — formal decision log
+- `docs/09-phase-1/` — Phase-1 operating model
+- `docs/10-build/` — construction and procurement playbook
+- `docs/11-launch/` — launch and stabilization
+- `docs/12-governance/` — KPI scorecard and decision gates
+- `data/` — structured model data
 
-Every important claim should be marked conceptually as one of:
+## Current project position
 
-- **FACT** — verified from a reliable primary or high-quality source.
-- **BENCHMARK** — observed at another farm or industry reference.
-- **ASSUMPTION** — an estimate used for planning and modelling.
-- **DECISION** — formally chosen for our farm.
+Planning/playbooks are complete across all phases. Physical execution remains gated by real-world inputs: final site, milk buyer, quotations, bank terms, fodder/irrigation confirmation and animal availability.
 
-## Repository map
-
-- `docs/00-vision/` — project vision and assumptions
-- `docs/01-research/` — benchmark farms, breeds, dairy market and technical research
-- `docs/02-herd/` — genetics, breeding, calves, replacements and herd growth
-- `docs/03-feed/` — fodder, silage, concentrates and TMR
-- `docs/04-farm-design/` — master plan, sheds, milking, water and manure
-- `docs/05-operations/` — daily operations, labour, health and reproduction
-- `docs/06-finance/` — CAPEX, OPEX, milk economics and financial models
-- `docs/07-expansion/` — scaling strategy
-- `docs/08-decisions/` — formal decision records
-- `data/` — raw and structured project data
-- `models/` — financial and herd-growth models
-- `sources/` — source indexes and research references
-
-## Current priority
-
-1. Deep study of Banjara Agro and other benchmark dairy farms.
-2. Determine the right cattle genetics for Bardiya/Terai conditions.
-3. Build realistic reproduction and herd-growth assumptions.
-4. Design feed and fodder strategy before final shed sizing.
-5. Build a phased farm plan rather than over-investing on day one.
-
-## Location context
-
-Planning context: Badhaiyataal / Mainapokhar area, Bardiya, Nepal. Land, water and electricity availability will be treated as project advantages, but all capacity and cost assumptions must still be verified before investment.
-
-## Status
-
-**Phase 0 — Research & feasibility**
-
-This repository will evolve continuously as new evidence, calculations and decisions are added.
+**Do not buy cows before Phase-2 commercial validation is signed off.**
