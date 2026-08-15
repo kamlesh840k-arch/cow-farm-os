@@ -1,0 +1,22 @@
+category,parameter,base_value,unit,status
+herd,foundation breeding females,30,head,planning assumption
+herd,lactating fraction,0.77,fraction,planning assumption
+production,gross milk per lactating cow,18.5,L/day,planning target
+production,saleable milk fraction,0.97,fraction,planning assumption
+reproduction,calvings per adult female year,0.82,calvings/year,planning assumption
+reproduction,adult cull and death rate,0.18,fraction/year,planning assumption
+reproduction,blended female calf ratio with selective sexed semen,0.67,fraction,planning assumption
+feed,lactating silage,18,kg/head/day,planning ration
+feed,lactating green fodder,12,kg/head/day,planning ration
+feed,lactating straw,4,kg/head/day,planning ration
+feed,lactating concentrate,6,kg/head/day,planning ration
+feed,silage economic cost,4.5,NPR/kg,planning assumption
+feed,green fodder economic cost,2.5,NPR/kg,planning assumption
+feed,straw cost,12,NPR/kg,planning assumption
+feed,concentrate cost,50,NPR/kg,planning assumption
+milk,minimum raw milk reference,65,NPR/L,NDDB published minimum for 4 fat 8 SNF
+milk,base realized milk price,72.5,NPR/L,planning assumption
+labour,worker monthly budget,25000,NPR/month,planning budget above minimum wage
+capex,phase 1 capex excluding land,15440000,NPR,engineering allowance
+working capital,initial reserve,2000000,NPR,planning allowance
+land,silage and green fodder recommendation,8-10,bigha,planning recommendation
