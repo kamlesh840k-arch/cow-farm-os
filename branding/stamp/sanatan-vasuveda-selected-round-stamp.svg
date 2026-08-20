@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <path id="topArc" d="M 190 600 A 410 410 0 0 1 1010 600"/>
+    <path id="bottomArc" d="M 1020 600 A 420 420 0 0 1 180 600"/>
+    <style>
+      .ink{fill:#071b72;stroke:#071b72}.np{font-family:'Noto Sans Devanagari','Mangal','Kalimati',sans-serif}.latin{font-family:Georgia,'Times New Roman',serif}
+    </style>
+  </defs>
+  <rect width="1200" height="1200" fill="white"/>
+  <circle cx="600" cy="600" r="470" fill="none" stroke="#071b72" stroke-width="14"/>
+  <circle cx="600" cy="600" r="451" fill="none" stroke="#071b72" stroke-width="4"/>
+  <circle cx="600" cy="600" r="325" fill="none" stroke="#071b72" stroke-width="6"/>
+  <text class="ink np" font-size="82" font-weight="700" letter-spacing="2"><textPath href="#topArc" startOffset="50%" text-anchor="middle">सनातन वासुवेदा</textPath></text>
+  <text class="ink np" font-size="55" font-weight="700"><textPath href="#bottomArc" startOffset="50%" text-anchor="middle">बढैयाताल–६, मैनापोखर, बर्दिया</textPath></text>
+  <path d="M205 600 l22 -7 7 -22 7 22 22 7 -22 7 -7 22 -7 -22z" fill="#071b72"/>
+  <path d="M937 600 l22 -7 7 -22 7 22 22 7 -22 7 -7 22 -7 -22z" fill="#071b72"/>
+  <text x="600" y="610" text-anchor="middle" class="ink latin" font-size="235" font-weight="500" letter-spacing="-25">SV</text>
+  <path d="M435 685 H548 c18 0 28 -18 40 -18s22 18 40 18h137" fill="none" stroke="#071b72" stroke-width="6"/>
+  <path d="M570 684 q15 -26 30 0 q15 -26 30 0 q-15 26 -30 0 q-15 26 -30 0z" fill="none" stroke="#071b72" stroke-width="5"/>
+  <text x="600" y="762" text-anchor="middle" class="ink np" font-size="58" font-weight="700">कृषि तथा</text>
+  <text x="600" y="834" text-anchor="middle" class="ink np" font-size="58" font-weight="700">पशुपालन फर्म</text>
+</svg>
