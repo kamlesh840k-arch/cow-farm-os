@@ -13,7 +13,7 @@ feed,lactating concentrate,6,kg/head/day,planning ration
 feed,silage economic cost,4.5,NPR/kg,planning assumption
 feed,green fodder economic cost,2.5,NPR/kg,planning assumption
 feed,straw cost,12,NPR/kg,planning assumption
-feed,concentrate cost,50,NPR/kg,planning assumption
+feed,concentrate cost,52,NPR/kg,"local market observation supplied by user 2026-08-20; 50 kg bag ~NPR 2600; exact brand/formulation pending"
 milk,minimum raw milk reference,65,NPR/L,NDDB published minimum for 4 fat 8 SNF
 milk,base realized milk price,72.5,NPR/L,planning assumption
 labour,worker monthly budget,25000,NPR/month,planning budget above minimum wage
