@@ -1,44 +1,60 @@
 # Nepal Government Registration Roadmap — Partnership Agro Firm
 
-**Status:** Preparation stage  
+**Status:** Ward application content finalized; signatures/attachments pending  
 **Registration model:** Partnership firm (साझेदारी फर्म)  
-**Partners:**
-- Suraj Sunar — 50%
-- Ritesh Kumar Mishra — 50%
+**Firm name:** Sanatan Vasuveda / सनातन वासुवेदा  
+**Master address:** Mainapokhar, Ward No. 6, Badhaiyataal Rural Municipality, Bardiya  
+**Application date:** 2083/05/05
 
-**Working business name:** Sanatan Vasuveda (final approval/name availability to be confirmed by registering authority)
+## Partners
 
-## 1. Immediate First Step — Ward Recommendation (वडा सिफारिस)
+| Partner | Ownership / Profit-Loss Share | Permanent Address | Citizenship No. | Contact |
+|---|---:|---|---|---|
+| Suraj Sunar | 50% | Mainapokhar, Ward No. 6, Badhaiyataal Rural Municipality, Bardiya | 65-01-71-00305 | 9848025371 |
+| Ritesh Kumar Mishra | 50% | Mainapokhar, Ward No. 6, Badhaiyataal Rural Municipality, Bardiya | 65-10-70-000861 | 9815578028 |
+| **Total** | **100%** |  |  |  |
 
-Obtain a business/farm registration recommendation from the Ward Office (वडा कार्यालय) having jurisdiction over the farm/business location.
+## 1. Ward Recommendation (वडा सिफारिस)
 
-### Information to prepare for the ward application
-- Proposed firm/business name
-- Nature of business: integrated agriculture/agro enterprise
-- Proposed activities, including as applicable:
-  - Cow/dairy farming
-  - Fodder/grass cultivation
-  - Hydroponic fodder production
-  - Vermicompost/organic manure production
-  - Beekeeping
-  - Other agriculture and livestock-related activities permitted by law
-- Business/farm operating address
-- Partners:
-  - Suraj Sunar — 50%
-  - Ritesh Kumar Mishra — 50%
-- Land/building status: owned or rented/leased
+**Status:** Application drafted and completed with current master data.
+
+Ward office:
+- Ward No. 6
+- Badhaiyataal Rural Municipality
+- Bardiya
+
+Business operating address:
+- Mainapokhar, Ward No. 6, Badhaiyataal Rural Municipality, Bardiya
+
+### Final activity wording used in the ward application
+
+The proposed firm will operate agriculture and livestock-related activities under prevailing Nepal law, including:
+- Cow farming and milk production
+- Animal fodder and grass cultivation
+- Hydroponic fodder and agricultural production
+- Vermicompost and organic manure production
+- Beekeeping
+- Agricultural production
+- Other agriculture and livestock-related activities permitted by law
+
+**Explicitly excluded from the current ward-application wording:**
+- Processing (प्रशोधन)
+- Sales/distribution (बिक्री वितरण)
+
+### Ward application file
+
+- GitHub: `government-registration/nepal/02-ward-recommendation-application-nepali.md`
+- Google Doc: https://docs.google.com/document/d/1L3Ct-L8il9Rfp4TrUdg1PjoMvmI6EQ4bwTFUV1RX9FY/edit
 
 ### Documents to keep ready for ward office
-The exact ward checklist must be confirmed with the relevant municipality/rural municipality, but prepare:
 - Citizenship copies of both partners
 - Passport-size photos of both partners
-- Partnership understanding/agreement or proposed partnership details
-- Land ownership certificate (लालपुर्जा) if operating on owned land; or lease/rent agreement if not owned
-- Landowner consent, if requested
-- Location/site details and cadastral/plot information if applicable
-- Proposed business name and activity description
-- Application to the ward chair/ward office
-- Any local tax/house-land-tax clearance required by the particular municipality
+- Land ownership certificate (लालपुर्जा) if operating on owned land, or lease/rent agreement if not owned
+- Landowner consent/citizenship copy if requested
+- Partnership agreement / partnership deed
+- Location/site details and map if requested
+- Any local tax or land-related clearance requested by Badhaiyataal Rural Municipality
+- Any additional ward-specific form or attachment
 
 ## 2. Partnership Agreement (साझेदारी कबुलियत/सम्झौता)
 
@@ -51,13 +67,8 @@ Prepare a written partnership deed before filing the partnership registration.
 | Ritesh Kumar Mishra | 50% |
 | **Total** | **100%** |
 
-### Partnership deed should define
-- Firm name
-- Principal business address
-- Business objectives and permitted activities
+### Partnership deed still needs decisions on
 - Initial capital contribution of each partner
-- 50/50 profit-sharing ratio
-- 50/50 loss-sharing ratio unless otherwise legally agreed
 - Bank-account operating authority
 - Spending/borrowing authority
 - Which decisions require approval of both partners
@@ -72,11 +83,9 @@ Prepare a written partnership deed before filing the partnership registration.
 
 ## 3. Partnership Firm Registration
 
-Under Nepal's Partnership Act framework, partnership registration requires filing prescribed details and, where partners have entered into a partnership agreement, a proper copy of that agreement. A firm name should not conflict with an already registered firm/company name.
+After obtaining the ward recommendation and finalizing the partnership deed, register the partnership firm with the competent provincial/local industry registration authority.
 
-**Important:** The competent registration office can depend on provincial/local implementation and the nature/scale of the enterprise. For this farm, confirm the current competent office before filing — commonly the relevant provincial Cottage and Small Industries / Industry and Commerce office for locally registered enterprises.
-
-### Registration file — prepare as a master set
+### Registration master set
 - Ward recommendation
 - Partnership registration application
 - Partnership deed/agreement
@@ -84,7 +93,7 @@ Under Nepal's Partnership Act framework, partnership registration requires filin
 - Photos of both partners
 - Land ownership proof or lease/rent agreement
 - Business location details/map as required
-- Proposed firm name
+- Firm name: Sanatan Vasuveda / सनातन वासुवेदा
 - Business-objective/activity list
 - Capital-investment details
 - Applicable registration fee/revenue receipt
@@ -92,21 +101,19 @@ Under Nepal's Partnership Act framework, partnership registration requires filin
 
 ## 4. Business PAN — Partnership Firm
 
-After firm registration, apply for a **Business PAN for a partnership firm** through Nepal's Inland Revenue Department (IRD).
+After firm registration, apply for a Business PAN for a partnership firm through Nepal's Inland Revenue Department (IRD).
 
-IRD's published requirements for a Business PAN entity include:
+Prepare:
 - Firm registration certificate copy
-- Citizenship copies of the operators/directors/partners
-- Passport-size photographs of the person signing the application
-- Map/location identifying the principal place of business
-- If the premises are owned: ownership evidence
-- If rented: rent/lease agreement
-
-The online application is made through the IRD taxpayer portal and then finalized with the relevant Inland Revenue Office or Taxpayer Service Office.
+- Citizenship copies of both partners
+- Passport-size photographs as required
+- Principal business location map/details
+- Ownership evidence if premises are owned
+- Rent/lease agreement if premises are rented/leased
 
 ## 5. Local Business Registration / Municipal Compliance
 
-After or alongside the main firm registration/PAN process, verify the municipality/rural municipality requirements for:
+Verify Badhaiyataal Rural Municipality requirements for:
 - Local business registration
 - Business tax (व्यवसाय कर)
 - Property/land-use related local approval where applicable
@@ -115,46 +122,42 @@ After or alongside the main firm registration/PAN process, verify the municipali
 
 ## 6. Agriculture / Livestock-Specific Follow-up
 
-Because this is intended as an integrated agro enterprise rather than only a dairy farm, the registration objectives should be drafted broadly enough to lawfully cover current and future activities.
-
 Track whether separate registration/recommendation is required from:
-- Municipality/Rural Municipality agriculture section
-- Livestock service section / veterinary office
-- Provincial agriculture/livestock authority
-- Dairy-related authority if milk processing/packaging is added
-- Food safety authority if food products are processed, packaged or sold
+- Badhaiyataal Rural Municipality agriculture section
+- Livestock service/veterinary section
+- Relevant provincial agriculture/livestock authority
+- Dairy-related authority if future regulated dairy activities are added
 - Environmental/local approval depending on farm scale and infrastructure
 
 ## 7. Recommended Registration Sequence
 
-1. Finalize broad business objectives and proposed firm name.
-2. Prepare 50/50 partnership deed.
-3. Gather citizenship, photos, land/lease and location documents.
-4. Apply to Ward Office for business/farm recommendation.
-5. Register the partnership firm with the competent provincial/local industry registration office.
-6. Obtain Business PAN from IRD.
-7. Complete municipal business registration/tax requirements.
-8. Complete livestock/agriculture-specific registrations applicable to the actual activities started.
-9. Open firm bank account and implement partnership signing controls.
-10. Maintain renewals, tax filings and government compliance calendar.
+1. Ward application completed — **DONE (content)**.
+2. Collect signatures and attachments — **PENDING**.
+3. Submit to Ward No. 6 office and obtain recommendation — **PENDING**.
+4. Prepare/finalize 50/50 partnership deed — **PENDING**.
+5. Register partnership firm — **PENDING**.
+6. Obtain Business PAN — **PENDING**.
+7. Complete municipal business registration/tax requirements — **PENDING**.
+8. Complete applicable livestock/agriculture-specific registrations — **PENDING**.
+9. Open firm bank account and implement partnership signing controls — **PENDING**.
+10. Maintain renewals, tax filings and government compliance calendar — **PENDING**.
 
-## 8. Data Still Needed to Finalize Government Forms
+## 8. Remaining Master Data Needed
 
-- Exact farm/business address
-- Province, district, municipality/rural municipality and ward number
-- Final approved firm name
-- Citizenship details as required on official forms
-- Permanent/current addresses of both partners
-- Initial capital amount and each partner's contribution
-- Whether the operating land is owned, rented or leased
-- Name of the landowner (if applicable)
-- Exact initial activities to be started on Day 1
-- Authorized partner(s) for signing and bank operation
+- Initial capital amount
+- Each partner's capital contribution
+- Whether farm land/premises are owned, rented or leased
+- Landowner name if applicable
+- Plot/kitta details if required
+- Bank operating/signature rule
+- Authorized partner(s) for government filings and routine operational signatures
+- Exact Day-1 activity set if registration authority asks for a narrower classification
 
-## Legal / Official References Checked
+## Legal / Official References to Maintain
 
-- Nepal Law Commission — Partnership Act, 2020 (साझेदारी ऐन, २०२०)
-- Inland Revenue Department — Business PAN Registration/Amendment Form (Partnership Firm)
-- Inland Revenue Department — PAN registration FAQ/process
+- Nepal Law Commission — Partnership Act
+- Inland Revenue Department — Business PAN registration requirements/process
+- Current provincial/local industry-registration rules applicable to Bardiya
+- Badhaiyataal Rural Municipality current local registration requirements
 
-> This file is an operational compliance roadmap. Exact forms, fees, office jurisdiction and local ward requirements should be re-verified against the relevant province/municipality at the time of filing.
+> This file is the master operational compliance roadmap. Exact forms, fees, office jurisdiction and local requirements should be re-verified at the time of filing.
