@@ -1,5 +1,5 @@
 category,parameter,base_value,unit,status
-herd,foundation breeding females,30,head,planning assumption
+herd,foundation breeding females,10,head,DECISION - corrected launch baseline
 herd,lactating fraction,0.77,fraction,planning assumption
 production,gross milk per lactating cow,18.5,L/day,planning target
 production,saleable milk fraction,0.97,fraction,planning assumption
@@ -17,6 +17,6 @@ feed,concentrate cost,52,NPR/kg,"local market observation supplied by user 2026-
 milk,minimum raw milk reference,65,NPR/L,NDDB published minimum for 4 fat 8 SNF
 milk,base realized milk price,72.5,NPR/L,planning assumption
 labour,worker monthly budget,25000,NPR/month,planning budget above minimum wage
-capex,phase 1 capex excluding land,15440000,NPR,engineering allowance
-working capital,initial reserve,2000000,NPR,planning allowance
-land,silage and green fodder recommendation,8-10,bigha,planning recommendation
+capex,previous 30-cow phase 1 capex excluding land,15440000,NPR,SUPERSEDED - recalculate for 10-cow launch
+working capital,previous 30-cow initial reserve,2000000,NPR,SUPERSEDED - recalculate for 10-cow launch
+land,previous 30-cow silage and green fodder recommendation,8-10,bigha,SUPERSEDED - recalculate for 10-cow launch
